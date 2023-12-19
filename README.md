@@ -2,6 +2,8 @@
 
 **`Full-tack Software Developer`**
 
+I am a full-stack software developer starting off with an interesting in video game creation gaining a BSc in Computer Games Technology working with C++ and C#. I then went on to gain an MSc in Computer Science.
+Here I picked up a strong interest in IoT devices and full stack software development, using Java Spring and React.js.
 ---
 
 ### 🧰 Languages and Tools
@@ -20,8 +22,30 @@
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Kibana" width="30px" style="padding-right:10px;" src="https://github.com/MilaRoseDev/MilaRoseDev/assets/154350616/4a8fb7e8-627b-4a4c-9bc5-e50ed0b6bafb"/>
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<br />
+<br />
 
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+---
+Tech Stack:
+<ul>
+  <li>Java (Spring)</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>C++</li>
+  <li>C#</li>
+  <li>Python</li>
+  <li>SQL</li>
+  <li>Kibana</li>
+  <li>Elastic Search</li>
+  <li>Jenkins</li>
+  <li>MongoDB</li>
+  <li>Gradle</li>
+  <li>Maven</li>
+  <li>Git/GitHub</li>
+</ul>
 <br />
 
 [LinkedIn]: https://www.linkedin.com/in/mila-rose-shields-2954a21a0/
