@@ -1,5 +1,5 @@
 # 💫 About Me:
- am a full-stack software developer starting off with an interesting in video game creation gaining a BSc in Computer Games Technology working with C++ and C#. I then went on to gain an MSc in Computer Science. Here I picked up a strong interest in IoT devices and full stack software development, using Java Spring and React.js.
+I am a full-stack software developer starting off with an interesting in video game creation gaining a BSc in Computer Games Technology working with C++ and C#. I then went on to gain an MSc in Computer Science. Here I picked up a strong interest in IoT devices and full stack software development, using Java Spring and React.js.
 
 
 ## 🌐 Socials:
